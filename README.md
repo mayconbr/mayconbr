@@ -1,7 +1,8 @@
 #### Hello World 👋 
 #### I’m Maycon Bruzolato, Web Developer.
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=mayconbr)
+![Profile views](https://count.getloli.com/get/@mayconbr?theme=rule34)
+
 
 
 ##
