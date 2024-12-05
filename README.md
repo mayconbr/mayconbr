@@ -1,6 +1,9 @@
 #### Hello World 👋 
 #### I’m Maycon Bruzolato, Web Developer.
 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=<seu-usuario>.<seu-repositorio>)
+
+
 ##
 
 <div align="center">
