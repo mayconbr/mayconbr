@@ -8,13 +8,14 @@
 Hello World 👋
 </div>
  
-#### I’m Maycon Bruzolato, Web Developer.
+#### I'm Maycon, a 24-year-old computer scientist passionate about web development, UX/UI design, and enjoying the beauty of nature.
 
 👩‍💻 About Me
 
 💼 I’m currently working as a Full-Stack Developer, focusing primarily on construct APIs using C#.  
 🚀 I’m improving my skills in NextJS, TypeScript, and React.  
 🎨 I have a passion for studying UX/UI Design and web development in general.  
+🎓 I hold a degree in Computer Science from PUC Minas and began my journey in programming during high school, where I completed a technical course in IT.  
 
 ##
 
