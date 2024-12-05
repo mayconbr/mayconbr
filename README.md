@@ -1,7 +1,7 @@
 #### Hello World 👋 
 #### I’m Maycon Bruzolato, Web Developer.
 
-![Profile views](https://count.getloli.com/get/@mayconbr?theme=rule34)
+![Profile views](https://count.getloli.com/get/@mayconbr?theme=normal)
 
 
 
