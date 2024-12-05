@@ -1,7 +1,7 @@
 #### Hello World 👋 
 #### I’m Maycon Bruzolato, Web Developer.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D51C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitas&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmayconbr&count_bg=%232C69FB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitas&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ##
 
