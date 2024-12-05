@@ -1,5 +1,13 @@
+<div align="center">
 #### Hello World 👋 
+</div>
 #### I’m Maycon Bruzolato, Web Developer.
+
+👩‍💻 About Me
+
+💼 I’m currently working as a Full-Stack Developer, focusing primarily on construct APIs using C#.
+🚀 I’m improving my skills in NextJS, TypeScript, and React.
+🎨 I have a passion for studying UX/UI Design and web development in general.
 
 [![Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmayconbr&count_bg=%232C69FB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitas&edge_flat=false)](https://hits.seeyoufarm.com)
 
