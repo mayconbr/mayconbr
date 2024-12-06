@@ -8,24 +8,25 @@
 Hello World 👋
 </div>
  
-#### I'm Maycon, a 24-year-old computer scientist passionate about web development, UX/UI design, and enjoying the beauty of nature.
+<h4 aling="center">I'm Maycon, a 24-year-old computer scientist passionate about web development, UX/UI design and enjoying the beauty of nature.</h4>  
 
-👩‍💻 About Me
+##
+
+👩‍💻 About Me  
 
 💼 I’m currently working as a Full-Stack Developer, focusing primarily on construct APIs using C#.  
 🚀 I’m improving my skills in NextJS, TypeScript, and React.  
-🎨 I have a passion for studying UX/UI Design and web development in general.  
-🎓 I hold a degree in Computer Science from PUC Minas and began my journey in programming during high school, where I completed a technical course in IT.  
+🎨 I have a passion for studying UX/UI Design and web development in general.    
+🎓 I hold a degree in Computer Science from PUC Minas and began my journey in programming during high school, where I completed a technical course in IT.    
 
 ##
 
 <div align="center">
-  <a href="https://github.com/mayconbr">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mayconbr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconbr&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div  align="center" style="display: inline_block"><br>
+<div  align="center" style="display: inline_block">
 <img align="center" alt="Maycon-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 <img align="center" alt="Maycon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Maycon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -37,8 +38,6 @@ Hello World 👋
 <img align="center" alt="Maycon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Maycon-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 <img align="center" alt="Maycon-Razor" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg">
-
-
 </div>
 
 ##
